@@ -90,8 +90,8 @@ header {
 .btn-full:hover,
 .btn-full:active {
   cursor: pointer;
-  background: hsl(318, 100%, 41%);
-  border: 1px solid hsl(318, 100%, 41%);
+  background: hsl(125°, 100%, 17%);
+  border: 1px solid hsl(125°, 100%, 41%);
 }
 
 .btn-ghost:link,
@@ -103,8 +103,8 @@ header {
 .btn-ghost:hover,
 .btn-ghost:active {
   cursor: pointer;
-  background: hsl(318, 100%, 41%);
-  border: 1px solid hsl(318, 100%, 41%);
+  background: hsl(125°, 100%, 17%);
+  border: 1px solid hsl(125°, 100%, 17%);
 }
 
 .btn-search {
@@ -115,12 +115,12 @@ header {
 .btn-search:hover,
 .btn-search:active {
   cursor: pointer;
-  background: hsl(318, 100%, 41%);
-  border: 1px solid hsl(318, 100%, 41%);
+  background: hsl(125°, 100%, 17%);
+  border: 1px solid hsl(125°, 100%, 17%);
 }
 /* ICONS */
 .header-icon {
-  color: hsl(318, 100%, 50%);
+  color: hsl(125°, 100%, 17%);
   display: inline-block;
   width: 10px;
   line-height: 90%;
@@ -137,7 +137,7 @@ nav {
   opacity: 0.85;
 }
 .navbar-dark .navbar-brand {
-  color: hsl(318, 100%, 50%);
+  color: hsl(125°, 100%, 17%);
   font-weight: 400;
 }
 
@@ -147,7 +147,7 @@ nav {
   left: 0;
   width: 100%;
   background: rgba(255, 255, 255, 0.955);
-  box-shadow: 0 2px 2px hsl(318, 100%, 41%);
+  box-shadow: 0 2px 2px hsl(125°, 100%, 17%);
   z-index: 9999;
 }
 
