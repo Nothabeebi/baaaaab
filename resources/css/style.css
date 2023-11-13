@@ -4,12 +4,17 @@
   box-sizing: border-box;
 }
 
+
 html,
 body {
   font-family: 'Lato', 'Arial', sans-serif;
   font-size: 20px;
   color: #424242;
   overflow-x: hidden;
+}
+.logo {
+  width: 40px; /* Adjust the width as needed */
+  height: auto; /* Auto-adjust height to maintain aspect ratio */
 }
 
 h1,
@@ -24,6 +29,7 @@ h1 {
   margin-bottom: 20px;
   word-spacing: 4px;
   letter-spacing: 1px;
+  color: #FFFFFF
 }
 
 h2 {
