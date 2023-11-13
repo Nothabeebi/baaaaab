@@ -12,7 +12,7 @@ body {
   color: #424242;
   overflow-x: hidden;
 }
-.logo {
+.navbar-brand .logo {
   width: 40px; /* Adjust the width as needed */
   height: auto; /* Auto-adjust height to maintain aspect ratio */
 }
@@ -29,7 +29,7 @@ h1 {
   margin-bottom: 20px;
   word-spacing: 4px;
   letter-spacing: 1px;
-  color: #FFFFFF
+  color: #FFFFFF;
 }
 
 h2 {
@@ -143,7 +143,7 @@ nav {
   opacity: 0.85;
 }
 .navbar-dark .navbar-brand {
-  color: #005707;
+  color: #FFFFFF;
   font-weight: 400;
 }
 
