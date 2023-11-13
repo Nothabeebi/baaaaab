@@ -236,9 +236,9 @@ nav {
   opacity: 1;
   width: 100%;
   height: 100%;
-  -webkit-transform: scale(1.15);
-  -ms-transform: scale(1.15);
-  transform: scale(1.15);
+  -webkit-transform: scale(1.00);
+  -ms-transform: scale(1.00);
+  transform: scale(1.00);
   transition: transform 0.5s, opacity 0.5s;
 }
 
