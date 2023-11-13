@@ -51,13 +51,15 @@ p {
   line-height: 145%;
 }
 
-section { margin: 60px 0; }
+section {
+  margin: 60px 0;
+}
 
 /**************************************
   HERO SECTION
 **************************************/
 header {
-  background-image: linear-gradient(cymk(1.00, 0.00, 0.92, 0.66), rgba(0, 0, 0, 0.6)), url('http://dancoria.com/landings/2/resources/img/fit-2.jpeg');
+  background-image: linear-gradient(#005707, #000000), url('https://erp.futurixtech.site/files/abstract-blur-empty-green-gradient-studio-well-use-as-backgroundwebsite-templateframebusiness-report.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -105,7 +107,6 @@ header {
   border: 1px solid hsl(318, 100%, 41%);
 }
 
-
 .btn-search {
   background: transparent;
   border: 1px solid #eee;
@@ -127,13 +128,14 @@ header {
   margin-left: 0;
   margin-right: 15px;
   margin-top: -4px;
-
 }
 
 /**************************************
   NAV SECTION
 **************************************/
-nav { opacity: 0.85; }
+nav {
+  opacity: 0.85;
+}
 .navbar-dark .navbar-brand {
   color: hsl(318, 100%, 50%);
   font-weight: 400;
@@ -141,8 +143,8 @@ nav { opacity: 0.85; }
 
 .sticky {
   position: fixed;
-  top:0;
-  left:0;
+  top: 0;
+  left: 0;
   width: 100%;
   background: rgba(255, 255, 255, 0.955);
   box-shadow: 0 2px 2px hsl(318, 100%, 41%);
@@ -152,7 +154,7 @@ nav { opacity: 0.85; }
 /**************************************
   PRICING SECTION
 **************************************/
-.pricing { 
+.pricing {
   background: #f4f4f4;
   margin-top: 0;
   margin-bottom: 0;
@@ -165,17 +167,17 @@ nav { opacity: 0.85; }
   border: none;
 }
 
-
-
-
-
-.card .list-group-item { border: #d4d4d4; }
+.card .list-group-item {
+  border: #d4d4d4;
+}
 
 .card h5 {
   font-size: 200%;
   font-weight: 300;
 }
-.card h6 { font-weight: 300; }
+.card h6 {
+  font-weight: 300;
+}
 
 .card .price:after {
   content: "\002F";
@@ -185,9 +187,13 @@ nav { opacity: 0.85; }
   padding-right: 8px;
 }
 
-.card .per-month { font-size: 80%; }
+.card .per-month {
+  font-size: 80%;
+}
 
-.card a { margin-top: 20px; }
+.card a {
+  margin-top: 20px;
+}
 
 #collapseExample ul li {
   margin-left: -25px;
@@ -196,8 +202,8 @@ nav { opacity: 0.85; }
 /**************************************
   CLASSES SECTION
 **************************************/
-.classes { 
-  background: #fff; 
+.classes {
+  background: #fff;
   margin-bottom: 0;
   margin-top: 0;
   padding-top: 60px;
@@ -256,7 +262,9 @@ nav { opacity: 0.85; }
   padding: 10px;
   text-align: center;
 }
-.overlay h5 { margin-top: 50px; }
+.overlay h5 {
+  margin-top: 50px;
+}
 .item:hover .overlay {
   opacity: 0.8;
   -webkit-transform: scale(1.03);
@@ -269,24 +277,25 @@ nav { opacity: 0.85; }
 **************************************/
 
 .register {
-  background-image: linear-gradient(rgba(199, 46, 186, 0.5), rgba(0, 0, 0, 0.6)), url('http://dancoria.com/landings/2/resources/img/kettle.jpeg');
+  background-image: linear-gradient(#005707, #000000), url('https://erp.futurixtech.site/files/abstract-blur-empty-green-gradient-studio-well-use-as-backgroundwebsite-templateframebusiness-report.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
-  
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 60px;
   padding-bottom: 60px;
 }
 
+.register h2 {
+  color: #fff;
+}
 
-
-.register h2 { color: #fff; }
-
-small { color: #fff; }
+small {
+  color: #fff;
+}
 
 /**************************************
   FOOTER SECTION
@@ -295,7 +304,9 @@ footer {
   background: #333;
   padding: 50px;
   font-size: 80%;
-  color: hsl(318, 100%, 50%)
+  color: hsl(318, 100%, 50%);
 }
 
-footer #footer-design { text-align: right; }
+footer #footer-design {
+  text-align: right;
+}
