@@ -65,11 +65,11 @@ section {
   HERO SECTION
 **************************************/
 header {
-  background-image: url('https://erp.futurixtech.site/files/Untitled%20(2).png');
-  background-size: 50%; /* Adjust the percentage as needed */
+  background-image: linear-gradient(#005707, #000000), url('');
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 50vh;
   background-attachment: fixed;
   width: 100%;
 }
