@@ -1,1 +1,7 @@
-# www.futurixtech.site
+## ZOSERP
+
+Theme for ZOSERP Compatible with Frappe Framework
+
+#### License
+
+MIT
